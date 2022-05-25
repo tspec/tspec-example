@@ -1,5 +1,5 @@
 # Heading
-
+              
 This is an executable specification file. This file loosely follows markdown syntax.
 Every bulleted point denotes a step.
 
@@ -19,14 +19,14 @@ Here's a step that takes a table
 
 * Almost all words have vowels 
 
-   |Word  |Vowel Count|
-   |------|-----------|
-   |Gauge |3          |
-   |Mingle|2          |
-   |Snap  |1          |
-   |GoCD  |1          |
-   |Rhythm|0          |
-
+  | Word   | Vowel Count |
+  |--------|-------------|
+  | Gauge  | 3           |
+  | Mingle | 2           |
+  | Snap   | 1           |
+  | GoCD   | 1           |
+  | Rhythm | 0           |
+              
 ___
 
 * Always runs

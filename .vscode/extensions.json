@@ -1,5 +1,6 @@
 {
 	"recommendations": [
-		"tspecorg.tspec-runner"
+		"tspecorg.tspec-runner",
+		"streetsidesoftware.code-spell-checker"
 	]
 }
